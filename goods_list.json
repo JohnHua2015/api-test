@@ -1,0 +1,58 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data":[
+    {
+      "goodsId": 0,
+      "spanSize": 4,
+      "banners": [
+        "https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF",
+        "https://t7.baidu.com/it/u=1956604245,3662848045&fm=193&f=GIF",
+        "https://t7.baidu.com/it/u=1285847167,3193778276&fm=193&f=GIF"
+      ]
+    },
+    {
+      "goodsId": 1,
+      "text": "明星单品",
+      "imageUrl": "https://i0.hdslb.com/bfs/article/a8807dd3b3c9a806e8ed30b1a8821b094c7f3b87.jpg@1320w_740h.webp",
+      "spanSize": 4
+    },
+    {
+      "goodsId": 2,
+      "text": "Redmi Note 11T Pro",
+      "imageUrl": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1670746083.00383245.png",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 3,
+      "text": "小米13 限量定制色 12GB+512GB",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/redminote11tpro6prgxe/10381.png",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 4,
+      "imageUrl": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1672368924.1898024.png",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 5,
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/redminote11tpro6prgxe/10381.png",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 6,
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/redminote11tpro6prgxe/10381.png",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 7,
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/redminote11tpro6prgxe/10381.png",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 8,
+      "text": "智能生活，从这里开始",
+      "spanSize": 4
+    }
+  ]
+}
